@@ -31,7 +31,6 @@ The "Chat with PDF" system is a Streamlit-based application that allows users to
 
 ### 3. **Storage and Processing**
    - **Chroma**: Used for embedding storage with support for document similarity retrieval.
-   - **DuckDB**: Backend database for the Chroma vector store.
 
 ### 4. **Document Handling**
    - **PyPDFDirectoryLoader**: Loads and parses PDF files.
