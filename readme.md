@@ -117,12 +117,6 @@ The "Chat with PDF" system is a Streamlit-based application that allows users to
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io/)
@@ -132,6 +126,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - [Groq API](https://groq.com/)
 
 ---
-
-Feel free to contribute or raise issues for further development!
 
